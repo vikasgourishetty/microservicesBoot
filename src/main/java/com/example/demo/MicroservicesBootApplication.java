@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MicroservicesBootApplication {
 
-	// Comments
+	// My sample comment
 	public static void main(String[] args) {
 		SpringApplication.run(MicroservicesBootApplication.class, args);
 	}
